@@ -1,0 +1,6 @@
+{
+  "token": "your token",
+  "password": "your password",
+  "target_user_id": "user id",
+  "webhook_url": "webhook url"
+}
