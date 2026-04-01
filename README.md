@@ -1,2 +1,2 @@
-# Discord-NickName-Sniper-
-Discord NickName Sniper 01/04/2026
+# Discord Nicname Sniper
+Hi.! My Discord id : 885527450493263912
